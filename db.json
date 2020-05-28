@@ -3,10 +3,10 @@
 	  "hotels": ["Lemon Tree: HiTech City", "MariGold: Green Park","The Park: Hyderabad","Raddison: Hyderabad","Vivanta: Begumpet"]
 	}
 
-  "Colombo": {
+  "Colombo":{
 	  "hotels": ["Jet Wing","Platinum One Suites","Taj Samudra","Rockwell","Rococo Residence"]
 	}
-  "New York": {
+  "New York":{
 	  "hotels":["Days Inn","Shelburne","Hilton Times Square","Hampton Inn","Cassa Hotel"]
 	}
     
