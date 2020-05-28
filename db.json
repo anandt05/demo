@@ -1,32 +1,14 @@
 {
-  "Hyderabad":[
-	  {
-		  "name":"Lemon Tree:Hitech City",
-		  "price": "INR 2500"
-	  },
-	  {
-		  "name":"Mari Gold:Green Park",
-		  "price": "INR 2400"
-	  }
-	],
-  "Colombo":[
-	  {
-		  "name":"Jet Wing",
-		  "price":"INR 2700"
-	  },
-	  {
-		  "name": "Platinum One Suites",
-		  "price" "INR 2900"
-	}
-      ],	
-  "New York":[
-	  {
-		  "name":"Days Inn",
-		  "price":"INR 3000"
-	  },
-	  {
-		  "name":"Shelburne",
-		  "price":"INR 3500"
-	  }
-	]
+  "Hyderabad": {
+	  "hyd_hotels": ["Lemon Tree","Vivanta","Green Park","The Park","Raddisson"]
+  },
+
+"Colombo": {
+	"cmb_hotels": ["Jet Wing","Platinum One Suites","Taj Samudra","Rockwell","Rococo Residence"]
+  },
+"New York": {
+	"nyk_hotels": ["Days Inn","Shelburne","Hilton Times Square", "Hampton Inn", "Cassa Hotel"]
 }
+}
+
+		  
